@@ -28,8 +28,5 @@ class Solution
         return new int[] {}; // If no solution found, return empty array (though problem assumes one solution)
     }
 
-    public static void main(String args[])
-    {
-        // Main method for testing purposes
-    }
+
 }
