@@ -1,4 +1,3 @@
-package Medium_Level;
 
  class ListNode
 {
@@ -9,7 +8,7 @@ package Medium_Level;
         val = x;
         next = null;
     }
-    
+
 }
 class Solution {
     public ListNode oddEvenList(ListNode head) {
